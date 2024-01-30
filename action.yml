@@ -1,0 +1,12 @@
+name: "Resolve LeetCode Daily Question"
+author: "melon95"
+
+description: "Resolve LeetCode Daily Question"
+
+branding:
+  icon: "code"
+  color: "green"
+
+runs:
+  using: "node20"
+  main: "index.js"
